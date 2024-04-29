@@ -247,3 +247,21 @@ li a, .dropbtn {
 .dropdown:hover .dropdown-content {
     display:block;
 }
+
+.contenedorFooter{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items:center;
+  height: 50px;
+}
+.detalleFooter {
+  width: 90%;
+  padding: 4px;
+  align-items: center;
+  margin: 0;
+}
+.iconsFooter {
+  padding: 2px;
+  width: 40px;
+}
