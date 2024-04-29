@@ -1,0 +1,46 @@
+{
+    "data" : [
+      {
+        "hotelId": "BA1",
+        "name": "HOTEL SOLANS CARLTON",
+        "imagen": "imagenes/sitios/hoteles/BA1.png",
+        "direccion": "Calle Libertad 1180 Recoleta, Buenos Aires ,Argentina" 
+      },
+      {
+          "hotelId": "BA2",
+        "name": "HOTEL UNIQUE EXECUTIVE CENTRAL",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Av. Pres. Roque Sáenz Peña 1178, C1035 Cdad. Autónoma de Buenos Aires ,Argentina"
+      },
+      {
+          "hotelId": "BA3",
+        "name": "GRAN HOTEL BUENOS AIRES",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+      },
+      {
+          "hotelId": "BA4",
+        "name": "GRAN HOTEL BUENOS AIRES",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+      },
+      {
+          "hotelId": "BA5",
+        "name": "GRAN HOTEL BUENOS AIRES",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+      },
+      {
+          "hotelId": "BA6",
+        "name": "GRAN HOTEL BUENOS AIRES",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+      },
+      {
+          "hotelId": "BA7",
+        "name": "GRAN HOTEL BUENOS AIRES",
+        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
+        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+      }
+    ]
+  }

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/estilo.css" />
+    <title>CodeQueens Turismo</title>
+  </head>
+  <body>
+    <div class="contenedor">
+      <header class="header">
+        <div>
+          <img
+            class="logoTravels"
+            src="imagenes/icons/codequeen.jpg"
+            alt="Logo CodeQueens"
+          />
+        </div>
+        <div class="nav-link">
+          <div>
+            <a href="index.html">Home</a>
+          </div>
+          <div>
+            <a href="nosotras.html">Nosotras</a>
+          </div>
+          <div>
+          <ul>
+            <li class="dropdown">
+              <a href="" class="dropbtn">Catalogo Turistico</a>
+              <div class="dropdown-content">
+                <a href="hoteles.html">Hoteles</a>
+                <a href="actividades.html">Actividades</a>
+                <a href="sitios.html">Sitios</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+          <div>
+            <a href="formReserva.html">Reservas</a>
+          </div>
+        </div>
+      </header>
+      <main class="contenido">
+       
+        <div  class="contenedorForm" >
+         
+           
+            <img
+              class="imgForm"
+              src="imagenes/sitios/caminito.jpg"
+              alt="Caminito"
+            />
+         
+          <div>
+            <h2>Formulario de Reservas</h2>
+            <form class="contenidoform">
+              <label for="nombre">Nombre:</label>
+              <input
+                size="30"
+                type="text"
+                name="nombre"
+                id="nombre"
+                placeholder="Ingresá tu nombre"
+                required
+              />
+              
+              <label for="apellido">Apellido:</label>
+              <input
+                type="text"
+                name="apellido"
+                id="apellido"
+                placeholder="Ingresá tu apellido"
+              />
+              <br />
+
+              <label for="tlf">Número de teléfono:</label>
+              <input
+                type="text"
+                id="telefono"
+                name="telefono"
+                placeholder="Ingresá tu teléfono"
+                required
+              />
+          
+              <label for="mail">Mail</label>
+              <input
+                type="email"
+                name="mail"
+                id="mail"
+                placeholder="Ingresa tu correo"
+              /><br />
+             <!--  
+              <label for="contraseña">Contraseña</label>
+              <input
+                type="password"
+                name="Contraseña"
+                id="contraseña"
+                required
+              /> -->
+             
+              <p>el número de habitaciones:</p>
+              <select name="Habitacion">
+                <option value="1">Una habitación</option>
+                <option value="2">Dos habitaciones</option>
+              </select>
+            
+              <label for="quien">¿Para quién es la reserva?</label>
+           
+              <input type="radio" name="reserva" id="reserva" value="1" />Para
+              mí
+              <input type="radio" name="reserva" id="reserva" value="2" />Para
+              otra persona
+              <br />
+              <label for="fecha">Fecha de ingreso:</label>
+              <input type="date" name="Fi" id="fechaingreso" />
+              <label for="fecha">Fecha de egreso:</label>
+              <input type="date" name="Fe" id="fechaegreso" />
+              <br />
+              <p>Consulta:</p>
+              <textarea
+                name="comentario"
+                rows="2"
+                cols="40"
+                placeholder="Escribe tu consulta"
+              ></textarea>
+              <br /><br />
+              <div>
+                <input type="submit" value="Enviar" />
+                <input type="reset" value="Borrar" />
+              </div>
+            </form>
+          </div>
+        </div>
+      </main>
+      <footer class="footer">
+        <h3>FOOTER</h3>
+      </footer>
+    </div>
+  </body>
+</html>
