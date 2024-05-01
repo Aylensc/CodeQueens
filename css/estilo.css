@@ -37,7 +37,7 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  background: #a3a3ec;
+  background: #2B222C;
   color: #fff;
   grid-area: header;
 }
