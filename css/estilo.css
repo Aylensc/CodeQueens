@@ -40,6 +40,17 @@ body {
   background: #2B222C;
   color: #fff;
   grid-area: header;
+ 
+}
+.titulo-header{
+  font-family: sofia;
+  font-size: 50px;
+  color: #e0beee;
+}
+.p-header{
+  font-family: sofia;
+  font-size: 30px;
+  color: #e0beee;
 }
 
 .contenedor .contenido {
