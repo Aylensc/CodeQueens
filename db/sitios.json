@@ -1,0 +1,34 @@
+{
+"data": [
+     {    "nombre": "Obelisco", 
+          "direccion": "Av. 9 de Julio", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/obelisco.jpg",
+          "horario_apertura": "00:00", 
+          "horario_cierre": "24:00" 
+     },  
+     {    "nombre": "Casa Rosada", 
+          "direccion": "Plaza de Mayo", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/casarosada.jpg",
+          "horario_apertura": "10:00", 
+          "horario_cierre": "17:00" 
+     } ,
+     {    "nombre": "Caminito", 
+          "direccion": "Av. 9 de Julio", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/caminito.jpg",
+          "horario_apertura": "9:00", 
+          "horario_cierre": "18:00" 
+     }, 
+     {    "nombre": "Floralis Generica", 
+          "direccion": "Plaza de Mayo", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/floralis-generica.jpg",
+          "horario_apertura": "10:00", 
+          "horario_cierre": "17:00" 
+     } ,
+     {    "nombre": "Puerto Madero", 
+          "direccion": "Av. 9 de Julio", 
+          "imgsitio": "imagenes/sitios/sitiosVisitar/puerto-madero.jpg",
+          "horario_apertura": "9:00", 
+          "horario_cierre": "18:00" 
+     }
+     ] 
+}
