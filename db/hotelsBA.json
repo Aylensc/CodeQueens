@@ -2,45 +2,58 @@
     "data" : [
       {
         "hotelId": "BA1",
-        "name": "HOTEL SOLANS CARLTON",
-        "imagen": "imagenes/sitios/hoteles/BA1.png",
-        "direccion": "Calle Libertad 1180 Recoleta, Buenos Aires ,Argentina" 
+        "name": "HOTEL CASA LUCIA",
+        "imagen":[
+          "imagenes/sitios/hoteles/BA1a.JPG",
+          "imagenes/sitios/hoteles/BA1b.JPG", 
+          "imagenes/sitios/hoteles/BA1c.JPG"
+        ],
+        "direccion": "Arroyo 841, Buenos Aires.Argentina", 
+        "telefono": "+54 9 11 2345-6754" 
       },
       {
-          "hotelId": "BA2",
-        "name": "HOTEL UNIQUE EXECUTIVE CENTRAL",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Av. Pres. Roque Sáenz Peña 1178, C1035 Cdad. Autónoma de Buenos Aires ,Argentina"
+        "hotelId": "BA2",
+        "name": "ESPLENDOR BY WYNDAM BUENOS AIRES TANGO",
+        "imagen":[
+          "imagenes/sitios/hoteles/BA2a.JPG",
+          "imagenes/sitios/hoteles/BA2b.JPG", 
+          "imagenes/sitios/hoteles/BA2c.JPG"
+        ],
+        "direccion": "Av. Rivadavia 947. Cdad. Autónoma de Buenos Aires ,Argentina",
+        "telefono": "+54 9 11 3765-6754"
       },
       {
-          "hotelId": "BA3",
-        "name": "GRAN HOTEL BUENOS AIRES",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+        "hotelId": "BA3",
+        "name": "MINE HOTEL BOUTIQUE",
+        "imagen":[
+          "imagenes/sitios/hoteles/BA3a.JPG",
+          "imagenes/sitios/hoteles/BA3b.JPG", 
+          "imagenes/sitios/hoteles/BA3c.JPG"
+        ],
+        "direccion": "Gorriti 4770 Palermo Soho, Buenos Aires.  Argentina" ,
+        "telefono": "+54 9 11 6734-0098" 
       },
       {
-          "hotelId": "BA4",
-        "name": "GRAN HOTEL BUENOS AIRES",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+        "hotelId": "BA4",
+        "name": "FIERRO HOTEL BUENOS AIRES",
+        "imagen":[
+          "imagenes/sitios/hoteles/BA4a.JPG",
+          "imagenes/sitios/hoteles/BA4b.JPG", 
+          "imagenes/sitios/hoteles/BA4c.JPG"
+        ],
+        "direccion": "Soler 5862, Buenos Aires. Argentina" ,
+        "telefono": "+54 9 11 9866-1122" 
       },
       {
-          "hotelId": "BA5",
-        "name": "GRAN HOTEL BUENOS AIRES",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
-      },
-      {
-          "hotelId": "BA6",
-        "name": "GRAN HOTEL BUENOS AIRES",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
-      },
-      {
-          "hotelId": "BA7",
-        "name": "GRAN HOTEL BUENOS AIRES",
-        "imagen": "imagenes/sitios/hoteles/BA2.jpg",
-        "direccion": "Marcelo Torcuato de Alvear 767, C1058 AAI, Buenos Aires ,Argentina" 
+        "hotelId": "BA5",
+        "name": "DUQUE HOTEL BOUTIQUE & SPA",
+        "imagen":[
+          "imagenes/sitios/hoteles/BA5a.JPG",
+          "imagenes/sitios/hoteles/BA5b.JPG", 
+          "imagenes/sitios/hoteles/BA5c.JPG"
+        ],
+        "direccion": "Guatemala 4364, Buenos Aires.Argentina" ,
+        "telefono": "+54 9 11 3244-6756" 
       }
     ]
   }

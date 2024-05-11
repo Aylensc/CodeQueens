@@ -1,0 +1,25 @@
+{
+    "data": [
+        {   "nombre": "Gloria Carmona", 
+            "linkedin": "https://www.linkedin.com/in/gloria-carmona-33554729", 
+            "imagen":"imagenes/nosotras/gloriaCarmona.png",
+            "Github": "https://github.com/glocarm", 
+            "metas": "Trabajar en las mejoras continuas de mis habilidades técnicas en el desarrollo de aplicaciones web utilizando tecnologías front-end y back-end, colaborando en proyectos desafiantes que me permitan seguir aprendiendo  y creciendo profesionalmente, haciendo de estos, soluciones innovadoras y creativas."
+        },  
+        {    "nombre": "Fátima", 
+              "linkedin": "", 
+              "Github": "", 
+              "metas": ""
+        },  
+        {    "nombre": "Melody", 
+              "linkedin": "", 
+              "Github": "", 
+              "metas": ""
+        },  
+        {    "nombre": "Aylen", 
+              "linkedin": "", 
+              "Github": "", 
+              "metas": ""
+        }
+    ] 
+}
