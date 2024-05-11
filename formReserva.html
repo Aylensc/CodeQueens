@@ -85,7 +85,7 @@
           <div>
             <h2>Formulario de Reservas</h2>
             <br />
-            <form class="contenidoform">
+            <form class="contenidoform" onsubmit="return validarFormulario()">
               <label for="nombre">Nombre:</label>
               <input
                 size="30"
@@ -107,7 +107,7 @@
 
               <label for="tlf">Número de teléfono:</label>
               <input
-                type="text"
+                type="tel"
                 id="telefono"
                 name="telefono"
                 placeholder="Ingresá tu teléfono"
@@ -161,6 +161,7 @@
                 <input type="reset" value="Borrar" />
               </div>
             </form>
+            <script type="text/javascript" src="/js/validacion.js"></script>
           </div>
         </div>
       </main>
