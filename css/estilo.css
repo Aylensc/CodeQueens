@@ -252,17 +252,21 @@ h2 {
 }
 
 .titulo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
   text-align: center;
-  padding: auto;
+  padding: 20px;
+  margin: 20px;
 }
 
 .parrafo{
-  padding: auto;
+  padding: 20px;
+  margin: 20px;
   text-align: justify;
+}
+
+.iframe{
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
 }
 
 /* DROPDOWN MENU Catalogo Turistico */
