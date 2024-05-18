@@ -239,6 +239,35 @@ h2 {
 .btnReservar:hover {
   background-color: #d8088f;
 }
+/* Estilo actividades*/
+
+.Imgecoparque {
+  width: 1000px;
+  height: 650px;
+  border-radius: 10px;
+  opacity: 1;
+  transition: 0.5s ease;
+  backface-visibility: hidden;
+
+}
+
+.titulo {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.parrafo{
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+}
+
+.iframe{
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
 
 /* DROPDOWN MENU Catalogo Turistico */
 ul {
@@ -438,25 +467,25 @@ li a,
 
 /* responsive para el formulario */ 
 @media (min-width: 576px) {
-  .contenedor, .contenido, .contenedorForm, .contenidoform, .detalleFooter {
+.contenedorForm, .contenidoform {
     max-width: 540px;
   }
 }
 
 @media (min-width: 768px) {
-  .contenedor, .contenido, .contenedorForm, .contenidoform, .detalleFooter {
+ .contenedorForm, .contenidoform {
     max-width: 720px;
   }
 }
 
 @media (min-width: 992px) {
-  .contenedor, .contenido, .contenedorForm, .contenidoform, .detalleFooter {
+.contenedorForm, .contenidoform{
     max-width: 960px;
   }
 }
 
 @media (min-width: 1200px) {
-  .contenedor, .contenido, .contenedorForm, .contenidoform, .detalleFooter {
+.contenedorForm, .contenidoform{
     max-width: 1140px;
   }
 }
