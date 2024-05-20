@@ -1,25 +1,28 @@
 {
     "data": [
         {   "nombre": "Gloria Carmona", 
-            "linkedin": "https://www.linkedin.com/in/gloria-carmona-33554729", 
+            "linkedin": "Linkedin: https://www.linkedin.com/in/gloria-carmona-33554729", 
             "imagen":"imagenes/nosotras/gloriaCarmona.png",
-            "Github": "https://github.com/glocarm", 
+            "Github": "Github: https://github.com/glocarm", 
             "metas": "Trabajar en las mejoras continuas de mis habilidades técnicas en el desarrollo de aplicaciones web utilizando tecnologías front-end y back-end, colaborando en proyectos desafiantes que me permitan seguir aprendiendo  y creciendo profesionalmente, haciendo de estos, soluciones innovadoras y creativas."
         },  
-        {    "nombre": "Fátima", 
-              "linkedin": "", 
-              "Github": "", 
-              "metas": ""
+        {    "nombre": "Fátima Torres", 
+              "linkedin": "Linkedin: https://www.linkedin.com/in/fatima-torres-3a7150260/", 
+              "Github": "Github: https://github.com/fatimatorresp/", 
+              "imagen":"imagenes/nosotras/fatimaa.jpg",
+              "metas": "Crear un sitio web interactivo usando HTML, CSS y JavaScript que presente información de manera atractiva y permita a los usuarios realizar acciones específicas de forma intuitiva"
         },  
-        {    "nombre": "Melody", 
-              "linkedin": "", 
-              "Github": "", 
-              "metas": ""
+        {    "nombre": "Melody Moral", 
+              "linkedin": "",
+              "imagen":"imagenes/nosotras/melody.jpg", 
+              "Github":  "Github: https://github.com/MelodyAndrea", 
+              "metas": "Diseñar y desarrollar un sitio web responsivo y moderno utilizando HTML, CSS y JavaScript, que proporcione una experiencia de usuario óptima en diferentes dispositivos y resoluciones de pantalla"
         },  
-        {    "nombre": "Aylen", 
+        {    "nombre": "Aylen Cos", 
               "linkedin": "", 
-              "Github": "", 
-              "metas": ""
+              "Github": "Github: https://github.com/Aylensc", 
+              "imagen":"imagenes/nosotras/aylen.png",
+              "metas": "Desarrollar un proyecto web utilizando HTML, CSS y JavaScript que no solo cumpla con los requisitos funcionales, sino que también sea estéticamente agradable y fácil de usar para los usuarios"
         }
     ] 
 }
