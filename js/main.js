@@ -1,3 +1,4 @@
+
 fetch("/db/hotelsBA.json")
   .then((response) => response.json())
   .then((data) => {
@@ -82,3 +83,16 @@ fetch("/db/nosotras.json")
     });
   })
   .catch((error) => console.log(error));
+
+
+  // const nav = document.querySelector("#nav");
+  // const abrir = document.querySelector("#abrir");
+  // const cerrar = document.querySelector("#cerrar");
+  
+  //   abrir.addEventListener("click", () => {
+  //     nav.classList.add("visible");
+  //   });
+  
+  //   cerrar.addEventListener("click", () => {
+  //     nav.classList.remove("visible");
+  //   });
