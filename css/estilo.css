@@ -242,7 +242,7 @@ select {
 }
 input[type="submit"],
 input[type="reset"] {
-  background-color: #5E4352;
+  background-color: #4caf50;
   color: white;
   padding: 10px;
   border: none;
@@ -254,7 +254,7 @@ input[type="reset"] {
 
 input[type="submit"]:hover,
 input[type="reset"]:hover {
-  background-color: #5E4352;
+  background-color: #45a049;
 }
 
 h2 {
@@ -327,10 +327,9 @@ h2 {
 }
 /* Estilo actividades*/
 
-.imgecoparque {
-  width: 900px;
-  padding: 30px;
-  height: 550px;
+.Imgecoparque {
+  width: 1000px;
+  height: 650px;
   border-radius: 10px;
   opacity: 1;
   transition: 0.5s ease;
@@ -545,7 +544,7 @@ li a,
   width: 100%; /* Cambiado a porcentaje */
   max-width: 800px; /* Agregado un ancho máximo */
   height: auto; /* Altura automática */
-  border: solid 5px rgb(40, 5, 24);
+  border: dotted 5px rgb(40, 5, 24);
   border-radius: 25px;
   background-color: #e8f7f6;
   gap: 20px;
@@ -562,7 +561,7 @@ li a,
 
 .h3Nosotras {
   text-align: center; /* Modificado a centrado */
-  color: #965D62;
+  color: #d8088f;
 }
 
 /* Media query para pantallas pequeñas */
